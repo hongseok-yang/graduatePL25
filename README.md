@@ -8,6 +8,10 @@ We remind the students that this is a math-heavy theory course. It is likely tha
 
 ## 1. Important Announcements
 
+#### [10 November] No lecture on 4 December.
+
+There will not be a lecture on 4 December. We will cover all the course materials by 2 December.
+
 #### [10 November] [Homework2](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework2.pdf) is out.
 
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 28 November 2025 (Friday).
@@ -125,21 +129,21 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 10/16(Thu) - Extensional Type Theory (Ch2).
 * 10/21(Tue) - __NO LECTURES. Week for Mid-term Exams.__
 * 10/23(Thu) - __NO LECTURES. Week for Mid-term Exams.__
-* 10/28(Tue) - Metatheory and Implementation (Ch3)
-* 10/30(Thu) - Metatheory and Implementation (Ch3)
-* 11/04(Tue) - Metatheory and Implementation (Ch3)
-* 11/06(Thu) - Metatheory and Implementation (Ch3)
-* 11/11(Tue) - Metatheory and Implementation (Ch3)
-* 11/13(Thu) - Metatheory and Implementation (Ch3)
-* 11/18(Tue) - Intensional Type Theory (Ch4)
-* 11/20(Thu) - Intensional Type Theory (Ch4)
-* 11/25(Tue) - Intensional Type Theory (Ch4)
-* 11/27(Thu) - __NO LECTURES. Interview for Undergraduate Admission.__
-* 12/02(Tue) - Intensional Type Theory (Ch4)
-* 12/04(Thu) - Intensional Type Theory (Ch4)
+* 10/28(Tue) - Extensional Type Theory (Ch2).
+* 10/30(Thu) - Extensional Type Theory (Ch2).
+* 11/04(Tue) - Metatheory and Implementation (Ch3).
+* 11/06(Thu) - Metatheory and Implementation (Ch3).
+* 11/11(Tue) - Metatheory and Implementation (Ch3).
+* 11/13(Thu) - Metatheory and Implementation (Ch3).
+* 11/18(Tue) - Intensional Type Theory (Ch4).
+* 11/20(Thu) - Intensional Type Theory (Ch4).
+* 11/25(Tue) - Intensional Type Theory (Ch4).
+* 11/27(Thu) - __NO LECTURE. Interview for Undergraduate Admission.__
+* 12/02(Tue) - Intensional Type Theory (Ch4).
+* 12/04(Thu) - __NO LECTURE.__
 * 12/09(Tue) - Project Presentations.
 * 12/11(Thu) - Project Presentations.
-* 12/16(Tue) - __NO LECTURES. Week for Final Exams.__
+* 12/16(Tue) - __NO LECTURE. Week for Final Exams.__
 * 12/18(Thu) - __FINAL EXAM (1:00pm - 3:00pm, 2445 E3).__
 
 ## 7. Study Materials
