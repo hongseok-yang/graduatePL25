@@ -14,7 +14,7 @@ There will not be a lecture on 4 December. We will cover all the course material
 
 #### [10 November] [Homework2](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework2.pdf) is out.
 
-The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 28 November 2025 (Friday).
+The homework assignment 2 is out. This is the last homework assignment. Submit your solutions in KLMS by 6:00pm on 28 November 2025 (Friday).
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
