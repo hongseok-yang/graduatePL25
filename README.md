@@ -8,6 +8,13 @@ We remind the students that this is a math-heavy theory course. It is likely tha
 
 ## 1. Important Announcements
 
+#### [10 November] [Homework2](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework2.pdf) is out.
+
+The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 28 November 2025 (Friday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
+
 #### [1 October] [Homework1](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework1.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 17 October 2025 (Friday).
@@ -98,6 +105,7 @@ One important part of this course is to form a group of 2-4 students, study an a
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
 * [Homework1](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework1.pdf) - Deadline: 6:00pm on 17 October 2025 (Friday).
+* [Homework2](https://github.com/hongseok-yang/graduatePL25/blob/main/Homework/homework2.pdf) - Deadline: 6:00pm on 28 November 2025 (Friday).
 
 ## 6. Tentative Plan
 
